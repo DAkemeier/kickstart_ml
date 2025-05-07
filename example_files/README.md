@@ -91,12 +91,12 @@ Go back to your project repository (fraud detection))
 
 - For installing the virtual environment you can either use the [Makefile](Makefile) and run `make setup` or install it manually with the following commands:
 
-     ```BASH
-    make setup
+    ```BASH
+        make setup
     ```
     After that active your environment by following commands:
     ```BASH
-    source .venv/bin/activate
+        source .venv/bin/activate
     ```
 Or ....
 - Install the virtual environment and the required packages by following commands:
